@@ -1,2 +1,2 @@
 # redteabot
-Red tea bot hack for mudae 
+Red tea bot hack for mudae (Long words bot)
